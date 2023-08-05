@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>Hi there 👋 I am Jinyang, but I go by Alice. I’m currently an incoming senior studying computer science at the <strong><a href="https://www.cs.washington.edu/">University of Washington</a></strong>, as well as a software engineering intern at <strong><a href="https://adobe.com/">Adobe</a></strong> where I am tinkering with intelligent audio editing. Previously, I led and shipped a new login & signup experience at <strong><a href="https://asana.com/">Asana</a></strong> and built an app for anime fans at <strong><a href="https://www.meta.com/">Meta</a></strong>.</p>
+<p>Hi there 👋 I am Jinyang, but I go by Alice. I am currently an incoming senior studying computer science at the <strong><a href="https://www.cs.washington.edu/">University of Washington</a></strong>, as well as a software engineering intern at <strong><a href="https://adobe.com/">Adobe</a></strong> where I am tinkering with intelligent audio editing. Previously, I led and shipped a new login & signup experience at <strong><a href="https://asana.com/">Asana</a></strong> and built an app for anime fans at <strong><a href="https://www.meta.com/">Meta</a></strong>.</p>
 <p>I enjoy hand-building ceramics, writing Yelp reviews, attending jazz concerts, and solving sudokus.<p>
 <p> 💻 Highlight of my skills</p>
 <ul> 
