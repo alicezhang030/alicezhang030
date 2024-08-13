@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>Hi there 👋 I am currently an software engineer at <strong><a href="https://asana.com/">Asana</a></strong>. I studied computer science at the University of Washington. <strong><a href="https://www.cs.washington.edu/">University of Washington</a></strong>. Previously, I was at <strong><a href="https://adobe.com/">Adobe</a></strong> where I was tinkering with intelligent audio editing.
+<p>Hi there 👋 I am currently a software engineer at <strong><a href="https://asana.com/">Asana</a></strong>. I studied computer science at the <strong><a href="https://www.cs.washington.edu/">University of Washington</a></strong>. Previously, I was at <strong><a href="https://adobe.com/">Adobe</a></strong> where I was tinkering with intelligent audio editing.
 
 <p>
   <a href="https://www.linkedin.com/in/jinyang-zhang/" target="_blank">
